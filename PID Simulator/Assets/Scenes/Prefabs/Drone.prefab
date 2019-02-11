@@ -129,3 +129,4 @@ MonoBehaviour:
   slider: {fileID: 0}
   targetText: {fileID: 0}
   currentText: {fileID: 0}
+  PowerSlider: {fileID: 0}
